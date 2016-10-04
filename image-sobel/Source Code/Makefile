@@ -1,5 +1,5 @@
 # Project Name
-PRJNAME=matrix-multiplication-ov2
+PRJNAME=image-sobel-on2
 
 # Filepaths
 SRCDIR=src

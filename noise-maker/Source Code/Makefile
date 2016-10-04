@@ -1,5 +1,5 @@
 # Project Name
-PRJNAME=matrix-multiplication-ov2
+PRJNAME=noise-maker
 
 # Filepaths
 SRCDIR=src
