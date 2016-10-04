@@ -1,5 +1,5 @@
 # Project Name
-PRJNAME=matrix-multiplication-ov2
+PRJNAME=matrix-multiplication-on2
 
 # Filepaths
 SRCDIR=src
